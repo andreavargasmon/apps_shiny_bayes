@@ -22,7 +22,7 @@ Aplicaciones sobre teoría Bayesiana hechas en shiny por estudiantes de tercer a
 
 Créditos:
 
-* Revisión de código y organización de apps: [Andrea Vargas](https://github.com/andreavargasmontero)y Luis Diego Quirós Gómez.
+* Revisión de código y organización de apps: [Andrea Vargas](https://github.com/andreavargasmontero) y Luis Diego Quirós Gómez.
 
 * Profesores a cargo: [Marcela Alfaro Córdoba](https://malfaro.netlify.app/) y Andrés Arguedas.
 
