@@ -22,8 +22,8 @@ Aplicaciones sobre teoría Bayesiana hechas en shiny por estudiantes de tercer a
 
 Créditos:
 
-* Revisión de código y organización de apps: [Andrea Vargas](https://github.com/andreavargasmontero) y Luis Diego Quirós Gómez.
+* Revisión de código y organización de apps: [Andrea Vargas](https://github.com/andreavargasmontero) y [Luis Diego Quirós Gómez](https://github.com/luisdiegoquiros).
 
-* Profesores a cargo: [Marcela Alfaro Córdoba](https://malfaro.netlify.app/) y Andrés Arguedas.
+* Profesores a cargo: [Marcela Alfaro Córdoba](https://malfaro.netlify.app/) y [Andrés Arguedas](https://github.com/andresarguedas).
 
 * Ud puede encontrar una descripción del proyecto en [esta](https://malfaro2.github.io/SIME_jornadas/presentacion-sime.html#1) presentación.
