@@ -24,6 +24,6 @@ Créditos:
 
 * Revisión de código y organización de apps: [Andrea Vargas](https://github.com/andreavargasmontero) y [Luis Diego Quirós Gómez](https://github.com/luisdiegoquiros).
 
-* Profesores a cargo: [Marcela Alfaro Córdoba](https://malfaro.netlify.app/) y [Andrés Arguedas](https://github.com/andresarguedas).
+* Profesores a cargo: [Marcela Alfaro Córdoba](https://malfaro.netlify.app/), [Shu Wei Chou Chen](https://github.com/shuwei325), y [Andrés Arguedas](https://github.com/andresarguedas).
 
 * Ud puede encontrar una descripción del proyecto en [esta](https://malfaro2.github.io/SIME_jornadas/presentacion-sime.html#1) presentación.
